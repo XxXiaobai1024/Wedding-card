@@ -8168,8 +8168,9 @@ button.bg-dark:focus {
 .p-5 {
     padding: 3rem !important;
 }
-
-.pt-5,
+.pt-5 {
+	padding-top: 5rem!important;
+}
 .py-5 {
     padding-top: 3rem !important;
 }
@@ -8179,7 +8180,9 @@ button.bg-dark:focus {
     padding-right: 3rem !important;
 }
 
-.pb-5,
+.pb-5 {
+    padding-bottom: 5rem!important;
+}
 .py-5 {
     padding-bottom: 3rem !important;
 }
@@ -10041,8 +10044,13 @@ body {
 .btn-outline-primary:hover {
     color: #fff;
 }
-
-
+.text-gray {
+	color: #88847d;
+  font-family: 'Microsoft Yahei', sans-serif;
+}
+.mb-20 {
+    margin-bottom: 20px;
+  }
 .bottom_right {
     overflow: hidden;
     position: fixed;
@@ -10059,3 +10067,12 @@ body {
     left: 0;
     margin: 0px 15px 15px 15px;
 }
+
+#d-day {
+    color: #e8e8e8;
+  <<<<<<< Updated upstream
+    font-family: 'Microsoft Yahei', sans-serif;
+    font-size: 15px;
+  =======
+  >>>>>>> Stashed changes
+  }
