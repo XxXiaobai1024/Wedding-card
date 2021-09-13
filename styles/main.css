@@ -10039,9 +10039,8 @@ body {
 .btn-outline-primary:hover {
     color: #fff;
 }
-.text-gray {
-	color: #88847d;
-  font-family: 'Microsoft Yahei', sans-serif;
+.text-rose {
+	color: #FF6666;
 }
 .mb-20 {
     margin-bottom: 20px;
