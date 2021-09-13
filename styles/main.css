@@ -10070,3 +10070,13 @@ body {
   =======
   >>>>>>> Stashed changes
   }
+
+@font-face {
+    font-family: yumo03;
+    src: url("../font/yumoW03.ttf")
+    }
+    
+.cat{
+    font-family: yumo03;
+    color:#f00;
+    }
